@@ -38,7 +38,7 @@ root@ratz:~# cat /etc/cyberratz/manifest
 
   ┌────────────────────────────────────────────────────────┐
   │  NAME     : CyberRatz                                  │
-  │  TYPE     : Collectif FR de hackers éthiques           │
+  │  TYPE     : Hackers éthiques & Bug Hunter              │
   │  HABITAT  : les égouts du réseau 🐀                    │
   │  MISSION  : apprendre, casser, documenter, partager    │
   │  RULE #1  : on ne touche qu'à ce qu'on a le droit      │
