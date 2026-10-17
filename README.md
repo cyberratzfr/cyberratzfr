@@ -131,4 +131,3 @@ Expect practical experiments, scripts, lab documentation, learning notes and CTF
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AAFF,100:080A0F&height=100&section=footer" width="100%" />
 
 </div>
-```
