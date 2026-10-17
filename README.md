@@ -145,11 +145,11 @@ root@ratz:~# cat /etc/cyberratz/manifest
 
 <div align="center">
 
-<a href="https://discord.gg/XXXXXXX">
+<a href="https://discord.gg/ecsQrP6F8">
   <img src="https://img.shields.io/badge/Discord-Rejoindre_le_terrier-19BEFF?style=for-the-badge&logo=discord&logoColor=EAF1F5&labelColor=030405"/>
 </a>
 <a href="https://instagram.com/hackee_fr">
-  <img src="https://img.shields.io/badge/Instagram-hackee__fr-19BEFF?style=for-the-badge&logo=instagram&logoColor=EAF1F5&labelColor=030405"/>
+  <img src="https://img.shields.io/badge/Instagram-cyberratz_fr-19BEFF?style=for-the-badge&logo=instagram&logoColor=EAF1F5&labelColor=030405"/>
 </a>
 
 <br/><br/>
