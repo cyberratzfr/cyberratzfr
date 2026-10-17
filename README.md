@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080A0F,50:06213A,100:00AAFF&text=CyberRatz&fontColor=E6F7FF&fontSize=68&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%2F%20CTF%20%2F%20RED%20TEAM&descAlignY=59&descSize=15&animation=fadeIn" width="100%" />
