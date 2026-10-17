@@ -51,7 +51,7 @@ root@ratz:~# cat /etc/cyberratz/manifest
 ```
 
 > Les rats sont partout. Ils trouvent chaque fissure, chaque câble mal protégé, chaque porte entrouverte.
-> **On fait pareil — mais avec un scope, une autorisation et un rapport à la fin.**
+> **On fait pareil, mais avec un scope, une autorisation et un rapport à la fin.**
 
 <br/>
 
