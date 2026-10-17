@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════
      CyberRatz — GitHub Profile README
      DA : #030405 · #19BEFF · #45E4FF · #EAF1F5 · #FF5A5A
-     Username GitHub : cyberratzfr — pense à mettre le vrai lien Discord.
+     Username GitHub : cyberratzfr · Discord : discord.gg/ecsQrP6F8
      ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -51,7 +51,7 @@ root@ratz:~# cat /etc/cyberratz/manifest
 ```
 
 > Les rats sont partout. Ils trouvent chaque fissure, chaque câble mal protégé, chaque porte entrouverte.
-> **On fait pareil, mais avec un scope, une autorisation et un rapport à la fin.**
+> **On fait pareil — mais avec un scope, une autorisation et un rapport à la fin.**
 
 <br/>
 
@@ -148,8 +148,8 @@ root@ratz:~# cat /etc/cyberratz/manifest
 <a href="https://discord.gg/ecsQrP6F8">
   <img src="https://img.shields.io/badge/Discord-Rejoindre_le_terrier-19BEFF?style=for-the-badge&logo=discord&logoColor=EAF1F5&labelColor=030405"/>
 </a>
-<a href="https://instagram.com/hackee_fr">
-  <img src="https://img.shields.io/badge/Instagram-cyberratz_fr-19BEFF?style=for-the-badge&logo=instagram&logoColor=EAF1F5&labelColor=030405"/>
+<a href="https://www.instagram.com/cyberratz_fr/">
+  <img src="https://img.shields.io/badge/Instagram-cyberratz__fr-19BEFF?style=for-the-badge&logo=instagram&logoColor=EAF1F5&labelColor=030405"/>
 </a>
 
 <br/><br/>
